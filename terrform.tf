@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+this change is from another developer
 this is version 1
 this is version 2
 =======
